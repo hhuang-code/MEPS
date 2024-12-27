@@ -1,0 +1,9 @@
+corr/checkpoint*
+corr/MPI-FAUST
+corr/result
+corr/visual
+corr/.DS_Store
+
+seg/checkpoint*
+seg/visual
+seg/.DS_Store
