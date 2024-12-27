@@ -1,0 +1,5 @@
+{
+  "h_conv1": [{"name": "fc1", "type": "F", "in_ch": "16", "out_ch": "32"}, {"name": "fc2", "type": "F", "in_ch": "32", "out_ch": "9"}],
+  "h_conv2": [{"name": "fc1", "type": "F", "in_ch": "32", "out_ch": "32"}, {"name": "fc2", "type": "F", "in_ch": "32", "out_ch": "9"}],
+  "h_conv3": [{"name": "fc1", "type": "F", "in_ch": "64", "out_ch": "32"}, {"name": "fc2", "type": "F", "in_ch": "32", "out_ch": "9"}]
+}
